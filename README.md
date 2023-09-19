@@ -35,9 +35,10 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Step 1: Access the incident report analysis template <br/>
+Incident report analysis  <br/>
+
  
-To access template for this course item, click the following link and select Use Template. <br/>
+Access the incident report analysis template: To access template for this course item, click the following link and select Use Template. <br/>
  
 Link to template:<br/>
 - Incident report analysis
@@ -47,7 +48,7 @@ Link to supporting materials:
 - Example of an incident report analysis
 <br />
 <br />
-Select the disk:  <br/>
+Incident report analysis  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
