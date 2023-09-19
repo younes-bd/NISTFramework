@@ -36,9 +36,11 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 
 <p align="center">
 Step 1: Access the incident report analysis template <br/>
-To access template for this course item, click the following link and select Use Template. 
-Link to template:
+To access template for this course item, click the following link and select Use Template. <br/>
+ 
+Link to template:<br/>
 - Incident report analysis
+
 Link to supporting materials:
 - Applying the NIST CSF
 - Example of an incident report analysis
