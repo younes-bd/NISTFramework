@@ -6,6 +6,7 @@ You are a cybersecurity analyst working for a multimedia company that offers web
 During the attack, your organization’s network services suddenly stopped responding due to an incoming flood of ICMP packets. Normal internal network traffic could not access any network resources. The incident management team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services. 
 The company’s cybersecurity team then investigated the security event. They found that a malicious actor had sent a flood of ICMP pings into the company’s network through an unconfigured firewall. This vulnerability allowed the malicious attacker to overwhelm the company’s network through a distributed denial of service (DDoS) attack. 
 <br />
+<br />
 
 To address this security event, the network security team implemented: 
 - A new firewall rule to limit the rate of incoming ICMP packets
@@ -27,15 +28,20 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
 
-<h2>Environments Used </h2>
+<h2> Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 1: Access the incident report analysis template <br/>
+To access template for this course item, click the following link and select Use Template. 
+Link to template:
+- Incident report analysis
+Link to supporting materials:
+- Applying the NIST CSF
+- Example of an incident report analysis
 <br />
 <br />
 Select the disk:  <br/>
