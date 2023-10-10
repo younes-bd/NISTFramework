@@ -344,6 +344,85 @@ Detect: Anomaly detection and incident response team activation aided in detecti
 Respond: Immediate actions involved account lockdown, investigation, and legal action.
 Recover: Recovery focused on data validation, employee awareness, and post-incident review.
 
+
+Using the NIST Cybersecurity Framework to Respond to a Ransomware Attack
+
+Description:
+You are a cybersecurity analyst at a manufacturing company. A ransomware attack has encrypted critical manufacturing process data, causing production delays. Your role is to use the NIST Cybersecurity Framework to guide the response to this ransomware attack incident.
+
+NIST Cybersecurity Framework Steps:
+
+1. Identify:
+Incident Type: Ransomware attack.
+Affected Systems: Manufacturing process data and critical systems.
+Impact: Production delays, potential data loss, and financial losses.
+
+3. Protect:
+Backup and Recovery: Ensure regular backups of critical data.
+Employee Training: Conduct security awareness training on avoiding ransomware.
+
+3. Detect:
+Ransomware Indicators: Identify ransomware indicators in affected systems.
+Incident Response Team Activation: Activate the incident response team to investigate the ransomware attack.
+
+5. Respond:
+Isolate Affected Systems: Isolate infected systems to prevent further encryption.
+Contact Law Enforcement: Report the ransomware attack to law enforcement.
+Negotiation: Evaluate the option of negotiating with attackers for a decryption key.
+
+5. Recover:
+Data Restoration: Restore encrypted data from backups.
+Vulnerability Assessment: Conduct a vulnerability assessment to prevent future attacks.
+Post-Incident Review: Review the incident to identify improvements in security controls.
+
+Incident Report Analysis:
+Summary: The organization faced a ransomware attack impacting manufacturing process data.
+Identify: The incident was identified as a ransomware attack through encrypted data.
+Protect: Protective measures included backup and recovery procedures and employee training.
+Detect: Detection involved identifying ransomware indicators and incident response team activation.
+Respond: Immediate actions included isolating affected systems, law enforcement contact, and negotiation.
+Recover: Recovery focused on data restoration, vulnerability assessment, and post-incident review.
+
+
+Using the NIST Cybersecurity Framework to Respond to a Data Breach Incident
+
+Description:
+You are a cybersecurity analyst at a healthcare provider. A data breach incident has exposed patient medical records due to unauthorized access. Your role is to use the NIST Cybersecurity Framework to guide the response to this data breach incident.
+
+NIST Cybersecurity Framework Steps:
+
+1. Identify:
+Incident Type: Data breach involving patient medical records.
+Affected Data: Personal health information (PHI) of patients.
+Impact: Patient privacy violations, potential legal and regulatory consequences.
+
+3. Protect:
+Access Control Review: Strengthen access controls to protect patient data.
+Encryption: Implement encryption for sensitive data at rest and in transit.
+
+3. Detect:
+Anomaly Detection: Enhance anomaly detection to identify unauthorized access.
+Incident Response Team Activation: Activate the incident response team to investigate the data breach.
+
+5. Respond:
+Contain Data Exposure: Contain unauthorized access to prevent further data exposure.
+Forensic Investigation: Conduct a forensic investigation to determine the extent of the breach.
+Legal Notifications: Notify affected patients and legal authorities as required by regulations.
+
+5. Recover:
+Data Cleanup: Remove unauthorized access and restore patient data integrity.
+Compliance Check: Ensure compliance with healthcare data protection regulations.
+Post-Incident Review: Review the incident to identify vulnerabilities in data protection.
+
+Incident Report Analysis:
+Summary: The organization experienced a data breach incident involving patient medical records.
+Identify: The incident was identified as a data breach through unauthorized access.
+Protect: Protective measures included access control review and data encryption.
+Detect: Detection involved anomaly detection and incident response team activation.
+Respond: Immediate actions included data containment, forensic investigation, and legal notifications.
+Recover: Recovery focused on data cleanup, compliance checks, and post-incident review.
+
+
 <!--
  ```diff
 - text in red
