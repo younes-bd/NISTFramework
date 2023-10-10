@@ -423,6 +423,82 @@ Detect: Detection involved anomaly detection and incident response team activati
 Respond: Immediate actions included data containment, forensic investigation, and legal notifications.
 Recover: Recovery focused on data cleanup, compliance checks, and post-incident review.
 
+Using the NIST Cybersecurity Framework to Respond to a Phishing Attack
+
+Description:
+You are a cybersecurity analyst at a financial institution. An employee fell victim to a phishing attack, leading to a potential breach. Your role is to use the NIST Cybersecurity Framework to guide the response to this phishing attack incident.
+
+NIST Cybersecurity Framework Steps:
+
+1. Identify:
+
+Incident Type: Phishing attack targeting an employee.
+Affected User: The targeted employee's account and potential access to sensitive financial data.
+Impact: Risk of unauthorized access to financial data and potential data leakage.
+2. Protect:
+
+Email Filtering: Strengthen email filtering to detect and block phishing emails.
+Employee Training: Provide additional phishing awareness training to employees.
+3. Detect:
+
+Email Analysis: Analyze the phishing email to understand the attack vector.
+Incident Response Team Activation: Activate the incident response team to investigate the phishing incident.
+4. Respond:
+
+Isolate Affected Account: Isolate the affected employee's account to prevent further compromise.
+Email Trace: Trace the phishing email source to identify potential threat actors.
+Malware Scan: Conduct malware scans on the affected account and systems.
+5. Recover:
+
+Account Restoration: Restore the affected employee's account with enhanced security measures.
+Post-Incident Review: Review the incident to identify areas for improved detection and prevention.
+Incident Report Analysis:
+
+Summary: The organization faced a phishing attack targeting an employee.
+Identify: The incident was identified as a phishing attack through analysis of the email.
+Protect: Protective measures included email filtering and employee training.
+Detect: Detection involved email analysis and incident response team activation.
+Respond: Immediate actions included account isolation, email trace, and malware scans.
+Recover: Recovery focused on account restoration and post-incident review.
+
+
+Using the NIST Cybersecurity Framework to Respond to a Insider Threat Incident
+
+Description:
+You are a cybersecurity analyst at a technology company. An insider threat incident has been identified, involving an employee attempting to exfiltrate sensitive source code. Your role is to use the NIST Cybersecurity Framework to guide the response to this insider threat incident.
+
+NIST Cybersecurity Framework Steps:
+
+1. Identify:
+Incident Type: Insider threat involving attempted data exfiltration.
+Affected Data: Sensitive source code and intellectual property.
+Impact: Risk of data loss and potential compromise of intellectual property.
+
+2. Protect:
+Data Loss Prevention (DLP): Enhance DLP measures to prevent unauthorized data exfiltration.
+Access Control Review: Review access controls for sensitive source code.
+
+3. Detect:
+Insider Threat Monitoring: Implement enhanced monitoring for insider threat behaviors.
+Incident Response Team Activation: Activate the incident response team to investigate the insider threat.
+
+4. Respond:
+Employee Interview: Conduct an interview with the involved employee to understand motives.
+Source Code Assessment: Assess if any source code was compromised.
+Legal Actions: Initiate legal actions if required, based on the investigation findings.
+
+5. Recover:
+Source Code Restoration: Restore any affected source code from backups.
+Insider Threat Mitigation: Implement additional measures to mitigate insider threats.
+Post-Incident Review: Review the incident to identify areas for improved prevention.
+
+Incident Report Analysis:
+Summary: The organization faced an insider threat incident involving an employee attempting data exfiltration.
+Identify: The incident was identified as an insider threat through monitoring.
+Protect: Protective measures included DLP enhancement and access control review.
+Detect: Detection involved insider threat monitoring and incident response team activation.
+Respond: Immediate actions included employee interview, source code assessment, and legal actions.
+Recover: Recovery focused on source code restoration and post-incident review.
 
 <!--
  ```diff
