@@ -569,6 +569,7 @@ Data Restoration: Restore affected data from backups and apply enhanced security
 Post-Incident Review: Review the incident to identify areas for improved protection.
 
 Incident Report Analysis:
+
 Summary: The organization faced a data breach incident with unauthorized access to patient records.
 Identify: The incident was identified as a data breach with external threat actor involvement.
 Protect: Protective measures included access control review and encryption evaluation.
