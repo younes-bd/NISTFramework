@@ -415,6 +415,7 @@ Compliance Check: Ensure compliance with healthcare data protection regulations.
 Post-Incident Review: Review the incident to identify vulnerabilities in data protection.
 
 Incident Report Analysis:
+
 Summary: The organization experienced a data breach incident involving patient medical records.
 Identify: The incident was identified as a data breach through unauthorized access.
 Protect: Protective measures included access control review and data encryption.
