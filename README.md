@@ -266,6 +266,84 @@ Detect: Network traffic analysis and incident response team activation aided in 
 Respond: Immediate actions involved traffic filtering, communication, and legal notifications.
 Recover: Website restoration, long-term defense planning, and post-incident review were essential for recovery.
 
+Using the NIST Cybersecurity Framework to Respond to a Phishing Attack
+
+Description:
+You are a cybersecurity analyst at a technology company. Several employees have reported receiving suspicious emails containing phishing links. Your role is to use the NIST Cybersecurity Framework to guide the response to this phishing attack incident.
+
+NIST Cybersecurity Framework Steps:
+
+1. Identify:
+
+Incident Type: Phishing attack.
+Affected Users: Multiple employees who received phishing emails.
+Potential Impact: Data breaches, unauthorized access, and malware infections.
+2. Protect:
+
+Email Filtering: Strengthen email filtering and anti-phishing measures.
+Employee Training: Conduct phishing awareness training for employees.
+3. Detect:
+
+Email Analysis: Analyze the suspicious emails to identify phishing indicators.
+Incident Response Team Activation: Activate the incident response team to investigate the phishing attack.
+4. Respond:
+
+Email Quarantine: Quarantine or delete the phishing emails to prevent user access.
+User Notifications: Notify affected users about the phishing attack and best practices.
+Malware Scanning: Scan affected devices for malware or indicators of compromise.
+5. Recover:
+
+User Education: Provide additional training on recognizing phishing attempts.
+Continuous Monitoring: Implement continuous monitoring for phishing attempts.
+Post-Incident Review: Review the incident to identify improvements in detection and response.
+Incident Report Analysis:
+
+Summary: The organization experienced a phishing attack targeting multiple employees.
+Identify: The incident was identified as a phishing attack through suspicious emails.
+Protect: Protective measures included email filtering enhancement and employee training.
+Detect: Email analysis and incident response team activation aided in detection.
+Respond: Immediate actions involved email quarantine, user notifications, and malware scanning.
+Recover: Recovery efforts focused on user education, continuous monitoring, and post-incident review.
+
+
+Using the NIST Cybersecurity Framework to Respond to a Insider Threat Incident
+
+Description:
+You are a cybersecurity analyst at a financial institution. Suspicious activity has been detected involving an insider threat—an employee attempting unauthorized access to sensitive financial data. Your role is to use the NIST Cybersecurity Framework to guide the response to this insider threat incident.
+
+NIST Cybersecurity Framework Steps:
+
+1. Identify:
+Incident Type: Insider threat involving unauthorized data access.
+Affected Systems: Financial data repositories and employee accounts.
+Impact: Potential data breaches, financial losses, and reputation damage.
+
+3. Protect:
+Access Controls: Review and strengthen access controls to limit unauthorized access.
+Employee Monitoring: Implement employee activity monitoring.
+
+3. Detect:
+Anomaly Detection: Enhance anomaly detection to identify suspicious employee activity.
+Incident Response Team Activation: Activate the incident response team to investigate the insider threat.
+
+5. Respond:
+Account Lockdown: Lock or restrict access to affected employee accounts.
+Investigation: Conduct a thorough investigation into the insider threat incident.
+Legal Action: Consult legal counsel for potential legal actions against the insider.
+
+5. Recover:
+Data Validation: Validate the integrity of sensitive financial data.
+Employee Awareness: Increase awareness about insider threat risks.
+Post-Incident Review: Review the incident to identify vulnerabilities in access controls.
+
+Incident Report Analysis:
+Summary: The organization faced an insider threat incident involving an employee attempting unauthorized access to financial data.
+Identify: The incident was identified as an insider threat through suspicious employee activity.
+Protect: Protective measures included access control enhancement and employee monitoring.
+Detect: Anomaly detection and incident response team activation aided in detection.
+Respond: Immediate actions involved account lockdown, investigation, and legal action.
+Recover: Recovery focused on data validation, employee awareness, and post-incident review.
+
 <!--
  ```diff
 - text in red
