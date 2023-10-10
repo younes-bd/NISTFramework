@@ -500,6 +500,81 @@ Detect: Detection involved insider threat monitoring and incident response team 
 Respond: Immediate actions included employee interview, source code assessment, and legal actions.
 Recover: Recovery focused on source code restoration and post-incident review.
 
+
+Using the NIST Cybersecurity Framework to Respond to a Malware Infection Incident
+
+Description:
+You are a cybersecurity analyst at a manufacturing company. Several employees reported suspicious activity on their computers, which indicates a possible malware infection. Your role is to use the NIST Cybersecurity Framework to guide the response to this malware infection incident.
+
+NIST Cybersecurity Framework Steps:
+
+1. Identify:
+
+Incident Type: Malware infection affecting multiple endpoints.
+Affected Systems: Computers of employees reporting suspicious activity.
+Impact: Risk of data loss, system compromise, and network spread.
+2. Protect:
+
+Endpoint Security: Ensure all endpoints have up-to-date antivirus and anti-malware software.
+User Training: Provide user training on recognizing and reporting suspicious activity.
+3. Detect:
+
+Malware Analysis: Analyze the suspicious files and activities to confirm malware infection.
+Incident Response Team Activation: Activate the incident response team to investigate the malware incident.
+4. Respond:
+
+Isolation: Isolate affected systems from the network to prevent further malware spread.
+Malware Removal: Clean infected systems and ensure they are malware-free.
+User Password Resets: Reset user passwords for affected accounts.
+5. Recover:
+
+System Restoration: Restore affected systems from clean backups.
+Post-Incident Review: Review the incident to identify gaps in protection and detection.
+Incident Report Analysis:
+
+Summary: The organization faced a malware infection incident affecting multiple endpoints.
+Identify: The incident was identified as a malware infection through analysis.
+Protect: Protective measures included endpoint security and user training.
+Detect: Detection involved malware analysis and incident response team activation.
+Respond: Immediate actions included isolation, malware removal, and password resets.
+Recover: Recovery focused on system restoration and post-incident review.
+
+Using the NIST Cybersecurity Framework to Respond to a Data Breach Incident
+
+Description:
+You are a cybersecurity analyst at a healthcare provider. An external threat actor gained unauthorized access to the patient database, potentially exposing sensitive patient information. Your role is to use the NIST Cybersecurity Framework to guide the response to this data breach incident.
+
+NIST Cybersecurity Framework Steps:
+
+1. Identify:
+Incident Type: Data breach with unauthorized access to patient records.
+Affected Data: Patient records containing sensitive health information.
+Impact: Risk of patient privacy violations and regulatory fines.
+
+2. Protect:
+Access Controls: Review and enhance access controls to the patient database.
+Encryption: Evaluate the need for data encryption on sensitive records.
+
+3. Detect:
+Intrusion Detection: Enhance intrusion detection systems to detect unauthorized access.
+Incident Response Team Activation: Activate the incident response team to investigate the data breach.
+
+4. Respond:
+Containment: Contain the breach by revoking unauthorized access and limiting data exposure.
+Legal Reporting: Comply with legal reporting requirements regarding the data breach.
+Forensic Analysis: Conduct forensic analysis to determine the extent of the breach.
+
+5. Recover:
+Data Restoration: Restore affected data from backups and apply enhanced security measures.
+Post-Incident Review: Review the incident to identify areas for improved protection.
+
+Incident Report Analysis:
+Summary: The organization faced a data breach incident with unauthorized access to patient records.
+Identify: The incident was identified as a data breach with external threat actor involvement.
+Protect: Protective measures included access control review and encryption evaluation.
+Detect: Detection involved intrusion detection and incident response team activation.
+Respond: Immediate actions included containment, legal reporting, and forensic analysis.
+Recover: Recovery focused on data restoration and post-incident review.
 <!--
  ```diff
 - text in red
