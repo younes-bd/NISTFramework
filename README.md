@@ -258,6 +258,7 @@ Long-Term Defense: Review and enhance long-term DDoS defense strategies.
 Post-Incident Review: Conduct a post-incident review to identify vulnerabilities and improve resilience.
 
 Incident Report Analysis:
+
 Summary: The organization experienced a DDoS attack that resulted in the unavailability of the e-commerce website.
 Identify: The incident was identified as a DDoS attack affecting the website and services.
 Protect: Protective measures included DDoS mitigation and redundancy.
